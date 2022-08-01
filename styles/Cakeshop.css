@@ -2,7 +2,23 @@ body {
     background-color: #f9a2ff;
     padding: 12%;
   }
+
+  .navbar-container{
+
+   background-color: rgb(224, 141, 255);
+   padding: 2px;
+   margin-bottom: 10px;
+   border-radius: 10px;
+  }
   
+  .navlink,li,a{
+
+    display:  inline;
+    margin: 2px;
+    list-style-type: none;
+    text-decoration: none;
+    text-align: justify;
+  }
   strong {
     font-weight: Bold;
     
