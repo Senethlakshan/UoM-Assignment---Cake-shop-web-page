@@ -1,0 +1,59 @@
+body {
+    background-color: #f9a2ff;
+    padding: 12%;
+  }
+  
+  strong {
+    font-weight: Bold;
+    
+  }
+  
+  img {
+    float: right;
+    border-radius: 10px;
+  }
+  
+  footer {
+    text-align: center;
+    font-family: Times New Roman;
+    font-size: 10px;
+    padding: 3px;
+    background-color: rgb(200, 0, 255);
+    color: rgb(255, 255, 255);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  .tagline {
+    color: blueviolet;
+    font-style: italic;
+  }
+  
+  .pricetopic{
+    font-size: 25px;
+    font-weight: bold;
+    padding-top: 50px;
+  }
+  
+  .offers {
+    color: black;
+    border: 2px;
+    background-color: rgb(207, 155, 255);
+    margin: auto;
+    padding: 10px;
+    border-radius: 20px;
+  }
+  
+  table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px dotted rgb(0, 0, 0);
+    background-color: rgb(235, 163, 255);
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 16px;
+  }
