@@ -5,20 +5,28 @@ body {
 
   .navbar-container{
 
-   background-color: rgb(224, 141, 255);
+   background-color: rgb(215, 104, 255);
    padding: 2px;
    margin-bottom: 10px;
    border-radius: 10px;
   }
   
-  .navlink,li,a{
+  navlink,li{
 
     display:  inline;
     margin: 2px;
+   
+  }
+
+  a{
+    text-align: center;
     list-style-type: none;
     text-decoration: none;
-    text-align: justify;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
   }
+
   strong {
     font-weight: Bold;
     
@@ -59,6 +67,7 @@ body {
     margin: auto;
     padding: 10px;
     border-radius: 20px;
+   
   }
   
   table {
